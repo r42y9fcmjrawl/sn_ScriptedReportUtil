@@ -170,4 +170,5 @@ ScriptedReportUtil.prototype = {
     },
 
     type: 'ScriptedReportUtil'
+	
 };
